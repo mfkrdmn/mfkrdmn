@@ -22,3 +22,4 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mfkrdmn&theme=prussian&hide_border=true)](https://git.io/streak-stats)
 
 
+![snake gif](https://github.com/mfkrdmn/mfkrdmn/blob/output/github-contribution-grid-snake.gif)
