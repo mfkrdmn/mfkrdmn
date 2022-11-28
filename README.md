@@ -17,7 +17,7 @@
 <h3 align="left">✌🏻 Learning in Progress ✌🏻:</h3>
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://simg.nicepng.com/png/small/31-314820_logo-spring-spring-framework-logo-svg.png" alt="flutter" width="40" height="40"/> </a> 
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://1.bp.blogspot.com/-trIS3Iz94SE/YIr3iwBC23I/AAAAAAAAtVQ/oieBThHJU3wPJkGOATDSvi6RySwlowM5ACLcBGAsYHQ/s452/spring-logo.png" alt="flutter" width="40" height="40"/> </a> 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mfkrdmn&theme=prussian&hide_border=true)](https://git.io/streak-stats)
 
